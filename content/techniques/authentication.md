@@ -2,7 +2,7 @@
 
 Authentication is an **essential** part of most existing applications. There are a lot of different approaches, strategies, and ways to handle user authorization. What we eventually decide to use depends on the particular application requirements and is strongly associated with their needs.
 
-[Passport](https://github.com/jaredhanson/passport) is the most popular node.js authentication library, well-known by community and successively used in many production applications. It's really simple to integrate this tool with **Nest** framework using dedicated passport utilities. For demonstration purposes, we'll set up both [passport-http-bearer](https://github.com/jaredhanson/passport-http-bearer) and [passport-jwt](https://github.com/themikenicholson/passport-jwt) strategy.
+[Passport](https://github.com/jaredhanson/passport) is the most popular node.js authentication library, well-known by community and successfully used in many production applications. It's really simple to integrate this tool with **Nest** framework using dedicated passport utilities. For demonstration purposes, we'll set up both [passport-http-bearer](https://github.com/jaredhanson/passport-http-bearer) and [passport-jwt](https://github.com/themikenicholson/passport-jwt) strategy.
 
 #### Installation
 
